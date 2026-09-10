@@ -2,7 +2,7 @@
 
 ## 第一次安裝
 
-1. 解壓縮下載的分享包。打開`install`資料夾，裡面有`taiwan-art-grants.zip`與`zh-direct-prose.zip`。這兩個安裝ZIP保持原樣。
+1. 解壓縮下載的分享包，就會看到 `安裝與使用說明.md`、`taiwan-art-grants.zip` 和 `zh-direct-prose.zip`。只解壓外面的分享包，裡面兩個安裝 ZIP 不要再解壓，下一步會直接上傳它們。
 2. 在Claude的**Settings → Capabilities**開啟**Code execution and file creation**。
 3. 進入**Customize → Skills**，按**＋ → Create skill → Upload a skill**。
 4. 上傳`taiwan-art-grants.zip`，再用相同步驟上傳`zh-direct-prose.zip`，確認兩者都已啟用。
