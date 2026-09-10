@@ -6,11 +6,11 @@
 
 **1. 解壓縮分享包。**
 
-解壓後會看到這份說明，以及 `taiwan-art-grants` 資料夾。保留整個資料夾，裡面是安裝所需的技能與設定。
+解壓後只保留一個 `taiwan-art-grants` 安裝資料夾。打開後，就能看到 `安裝與使用說明.md`、`plugin.json` 與 `skills`；`.codex-plugin` 也是必要設定資料夾。安裝時選擇整個 `taiwan-art-grants` 資料夾，不用再往內找另一個同名資料夾。
 
 **2. 讓Work存取資料夾。**
 
-在ChatGPT桌面版開啟可處理本機檔案的Work任務，在介面上選擇解壓後的資料夾。
+在ChatGPT桌面版開啟可處理本機檔案的Work任務，在介面上選擇解壓後的 `taiwan-art-grants` 資料夾。
 
 **3. 請安裝助手處理設定。**
 
