@@ -7,12 +7,12 @@
 
 建議在電腦上下載、安裝及使用。點下方「下載ZIP」即可。
 
-Claude 分享包解壓後，直接顯示說明與兩個安裝 ZIP；ChatGPT 分享包只保留一個 `taiwan-art-grants` 安裝資料夾，說明與設定放在同一層。
+Claude 分享包解壓後，直接顯示說明與兩個安裝 ZIP；ChatGPT 分享包解壓後，直接顯示說明與兩個 Skills 資料夾，可交給 Skill Installer 安裝。
 
 | 使用環境 | 下載 | 教學與狀態 |
 |---|---|---|
 | Claude，自訂Skills與檔案功能可用的環境 | **[下載Claude分享包ZIP](https://github.com/comot55244357/taiwan-art-grants/releases/download/v0.9/taiwan-art-grants-claude.zip?download=c413363cb349)** | [安裝與使用教學](guides/claude.md) |
-| ChatGPT桌面版Work，可存取本機資料夾與Plugin的環境 | **[下載ChatGPT分享包ZIP](https://github.com/comot55244357/taiwan-art-grants/releases/download/v0.9/taiwan-art-grants-chatgpt.zip?download=a4a5582bc1a3)** | [適用環境與安裝教學](guides/chatgpt.md) |
+| ChatGPT桌面版Work，可使用Skill Installer並存取資料夾的環境 | **[下載ChatGPT分享包ZIP](https://github.com/comot55244357/taiwan-art-grants/releases/download/v0.9/taiwan-art-grants-chatgpt.zip?download=8fd51247ae93)** | [適用環境與安裝教學](guides/chatgpt.md) |
 
 ### 分享包裡有什麼？
 
