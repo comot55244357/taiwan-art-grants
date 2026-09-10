@@ -2,7 +2,7 @@
 
 把補助申請的寫作經驗整理成可重複使用的 AI Skills，陪你從簡章、資料與段落骨架，逐步完成企劃。
 
-**免費分享｜創作徵件・海外交流｜目前版本 v0.9**
+**免費分享｜創作徵件・海外交流**
 
 ## 先選擇你的版本
 
@@ -10,7 +10,7 @@
 
 | 使用環境 | 下載 | 教學與狀態 |
 |---|---|---|
-| Claude，自訂 Skills 與檔案功能可用的環境 | **[下載 Claude 分享包 ZIP](https://github.com/comot55244357/taiwan-art-grants/releases/download/v0.9/taiwan-art-grants-claude-v0.9.zip)** | [安裝與使用教學](guides/claude.md)；已完成格式檢查，尚未完成 v0.9 帳號安裝及 Word 實測 |
+| Claude，自訂 Skills 與檔案功能可用的環境 | **[下載 Claude 分享包 ZIP](https://github.com/comot55244357/taiwan-art-grants/releases/download/v0.9/taiwan-art-grants-claude-v0.9.zip)** | [安裝與使用教學](guides/claude.md)；已完成格式檢查，尚未完成帳號安裝及 Word 實測 |
 | ChatGPT 桌面版 Work，可存取本機資料夾與 Plugin 的環境 | **[下載 ChatGPT 分享包 ZIP](https://github.com/comot55244357/taiwan-art-grants/releases/download/v0.9/taiwan-art-grants-chatgpt-v0.9.zip)** | **待實機驗證的候選版**，請先看 [適用環境與安裝教學](guides/chatgpt.md) |
 
 ChatGPT 候選版需要教學所列的 Work／Plugin 環境；將 ZIP 上傳到一般聊天視窗不等於安裝。找不到對應入口時，先確認環境支援，再進行安裝。
@@ -56,12 +56,8 @@ ChatGPT 候選版需要教學所列的 Work／Plugin 環境；將 ZIP 上傳到�
 - Skills 提供寫作與檢查方法，實際申請依當次官方簡章與格式處理，不保證補助結果。
 - Word 輸出需要目前的 AI 環境具有文件製作功能；交付前仍需核對事實、必填欄位、附件及版面。
 - 分享包沒有收錄原始申請書、私人邀請函或個人證件。自己的申請資料請放在自己的工作環境，不要貼到公開 Issues。
-- v0.9 已完成格式、檔案一致性、用語及封裝檢查；這些檢查不等於模型行為或目標平台安裝測試。
+- 分享包已完成格式、檔案一致性、用語及封裝檢查；這些檢查不等於模型行為或目標平台安裝測試。
 
-## 版本與回饋
+## 使用回饋
 
-- [查看版本與下載檔](https://github.com/comot55244357/taiwan-art-grants/releases)
-- [回報使用問題](https://github.com/comot55244357/taiwan-art-grants/issues)：請描述使用的平台、版本、操作步驟與卡住的位置，移除私人資料。
-- [閱讀技能內容](skills/)：安裝請使用上方已打包的 ZIP。
-
-v0.9 統一採用「列出段落骨架，自己擴寫」的白話名稱，並保留海外交流章節、人員名冊及兩種寫法的選擇。
+[回報使用問題](https://github.com/comot55244357/taiwan-art-grants/issues)：請描述使用的平台、操作步驟與卡住的位置，移除私人資料。
