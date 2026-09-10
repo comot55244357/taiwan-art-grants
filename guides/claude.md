@@ -11,9 +11,15 @@
 
 在 Claude 左下角點開帳號選單，選擇 **Settings（設定）**。
 
+![步驟 1：打開 Settings 設定](images/claude/step-01.png)
+
+
 ## 2. 進入 Skills
 
 在設定左側點 **Skills**，再點右上角 **Add → Upload skill**。
+
+![步驟 2：選擇 Skills 與 Upload skill](images/claude/step-02.png)
+
 
 ## 3. 加入兩個安裝檔
 
@@ -21,9 +27,17 @@
 
 如果只加入一個，可以按 **Add more** 再加入另一個。
 
+圖中顯示的是舊版 `install` 路徑。目前分享包解壓後，就能直接看到兩個安裝 ZIP，不需要再找 `install` 資料夾。
+
+![步驟 3：選擇兩個 Skill 安裝 ZIP](images/claude/step-03.png)
+
+
 ## 4. 儲存
 
 確認畫面列出兩個 ZIP 後，點 **Save 2 skills**，等候儲存完成。
+
+![步驟 4：按 Save 2 skills 儲存](images/claude/step-04.png)
+
 
 ## 5. 確認安裝成功
 
@@ -31,6 +45,8 @@
 
 - `taiwan-art-grants`
 - `zh-direct-prose`
+
+![步驟 5：確認兩個助手已加入](images/claude/step-05.png)
 
 ## 6. 在新對話選用助手
 
@@ -40,6 +56,9 @@
 
 看到兩個名稱都出現在輸入框裡，就可以接著寫你的需求。
 
+![步驟 6：輸入斜線選用助手](images/claude/step-06.png)
+
+
 ## 7. 告訴它你要申請什麼
 
 把補助簡章、作品資料和邀請函（如果有）加入對話，再輸入需求。例如：
@@ -47,6 +66,9 @@
 > 我要用《XX作品》參加 XX 影展，準備申請海外交流補助。請依照我提供的簡章和資料，協助整理企劃書，缺少的資料先標出來。
 
 把 XX 換成自己的作品與影展名稱，按送出即可。
+
+![步驟 7：加入助手並輸入申請需求](images/claude/step-07.png)
+
 
 你也可以接著指定寫法：
 
