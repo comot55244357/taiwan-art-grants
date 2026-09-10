@@ -1,6 +1,6 @@
-# ChatGPT 版：安裝與開始使用
+# ChatGPT版：安裝與開始使用
 
-此版以 **ChatGPT桌面版的Work模式，且可存取本機資料夾** 為使用環境。Plugin是把企劃助手與中文修飾兩個Skills一起安裝的套件。
+此版以**ChatGPT桌面版的Work模式，且可存取本機資料夾** 為使用環境。Plugin是把企劃助手與中文修飾兩個Skills一起安裝的套件。
 
 ## 第一次安裝
 
@@ -14,7 +14,7 @@
 
 **3. 請安裝助手處理設定。**
 
-輸入 `@`，選擇 `plugin-creator`，接著說：
+輸入`@`，選擇`plugin-creator`，接著說：
 
 > 請讀取我提供的taiwan-art-grants Plugin資料夾，檢查其中的plugin.json、.codex-plugin/plugin.json與skills。保留既有技能內容，協助將這個套件加入我的個人本機Plugin來源，並告訴我如何在Plugins Directory完成安裝。請沿用既有的個人來源並保留其他項目；若已有同名舊版，先說明版本差異再更新。
 
