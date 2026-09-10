@@ -9,8 +9,8 @@
 
 | 使用環境 | 下載 | 教學與狀態 |
 |---|---|---|
-| Claude，自訂Skills與檔案功能可用的環境 | **[下載Claude分享包ZIP](https://github.com/comot55244357/taiwan-art-grants/releases/download/v0.9/taiwan-art-grants-claude-v0.9.zip)** | [安裝與使用教學](guides/claude.md) |
-| ChatGPT桌面版Work，可存取本機資料夾與Plugin的環境 | **[下載ChatGPT分享包ZIP](https://github.com/comot55244357/taiwan-art-grants/releases/download/v0.9/taiwan-art-grants-chatgpt-v0.9.zip)** | 請先看 [適用環境與安裝教學](guides/chatgpt.md) |
+| Claude，自訂Skills與檔案功能可用的環境 | **[下載Claude分享包ZIP](https://github.com/comot55244357/taiwan-art-grants/releases/latest/download/taiwan-art-grants-claude.zip)** | [安裝與使用教學](guides/claude.md) |
+| ChatGPT桌面版Work，可存取本機資料夾與Plugin的環境 | **[下載ChatGPT分享包ZIP](https://github.com/comot55244357/taiwan-art-grants/releases/latest/download/taiwan-art-grants-chatgpt.zip)** | 請先看 [適用環境與安裝教學](guides/chatgpt.md) |
 
 ### 分享包裡有什麼？
 
