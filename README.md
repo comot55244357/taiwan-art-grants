@@ -11,8 +11,8 @@ Claude 分享包解壓後，直接顯示說明與兩個安裝 ZIP；ChatGPT 分�
 
 | 使用環境 | 下載 | 教學與狀態 |
 |---|---|---|
-| Claude，自訂Skills與檔案功能可用的環境 | **[下載Claude分享包ZIP](https://github.com/comot55244357/taiwan-art-grants/releases/download/v0.9/taiwan-art-grants-claude.zip?download=c413363cb349)** | [安裝與使用教學](guides/claude.md) |
-| ChatGPT桌面版Work，可使用Skill Installer並存取資料夾的環境 | **[下載ChatGPT分享包ZIP](https://github.com/comot55244357/taiwan-art-grants/releases/download/v0.9/taiwan-art-grants-chatgpt.zip?download=bc638167df61)** | [適用環境與安裝教學](guides/chatgpt.md) |
+| Claude，自訂Skills與檔案功能可用的環境 | **[下載Claude分享包ZIP](https://github.com/comot55244357/taiwan-art-grants/releases/download/v0.9/taiwan-art-grants-claude.zip?download=fa1497141f06)** | [安裝與使用教學](guides/claude.md) |
+| ChatGPT桌面版Work，可使用Skill Installer並存取資料夾的環境 | **[下載ChatGPT分享包ZIP](https://github.com/comot55244357/taiwan-art-grants/releases/download/v0.9/taiwan-art-grants-chatgpt.zip?download=884b72a1dfe4)** | [適用環境與安裝教學](guides/chatgpt.md) |
 
 ### 分享包裡有什麼？
 
@@ -25,6 +25,8 @@ Claude 分享包解壓後，直接顯示說明與兩個安裝 ZIP；ChatGPT 分�
 減少AI常見的句型，用中文直述句表達。保留原意、事實、語氣與「預計／待確認」等狀態。
 
 這份Skills已整理好寫作流程與檢查重點，你可以重複使用，不用每次從頭教AI怎麼協助準備藝文補助企劃。
+
+依你的創作形式、計畫階段與當次簡章選用方法；只有初步構想、沒有舊企劃，也可以從已知資料開始整理。
 
 ### 你可以選擇怎麼寫
 
